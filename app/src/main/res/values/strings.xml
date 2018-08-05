@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TrueCallerApp</string>
+
+    <string name="full_name">Full Name</string>
+    <string name="company">Company</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="notes">Notes</string>
+    <string name="edit_icon">Edit Icon</string>
+    <string name="phone_">Phone:</string>
+    <string name="company_">Company:</string>
+    <string name="notes_">Notes:</string>
+    <string name="incoming_call">Incoming Call:</string>
+    <string name="edit">Edit</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="delete">Delete</string>
+</resources>
